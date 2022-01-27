@@ -1,10 +1,13 @@
 // My code for my abstract clock is below!
 
 function setup() {
+	
 	createCanvas(windowWidth, windowHeight);
+	
 }
   
 function draw() {
+	
 	background(222, 229, 229); // Color in RGB.
 	// Setting the second, minute, and hour seconds.
 	var sec = second();
